@@ -5,7 +5,11 @@ It requires [JUCE]([url](https://juce.com/)) installed
 
 ## Installation
 Install JUCE
+
 Download this code
+
 Run the .juce file using ProJuicer to get JUCE dependencies and create .sln
-Open in .sln Visual Studio and compile .dll
+
+Open .sln Visual Studio and compile .dll
+
 Move .dll into your VST3 folder and use VST3 plugin
